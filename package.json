@@ -10,7 +10,7 @@
     "clean": "turbo run clean"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lu Dinh Quan <ludinhquan@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "turbo": "^1.10.16"
